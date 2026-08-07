@@ -1,7 +1,7 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "4.4.0.1",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_AUTOUPDATE_TEST_V4.4.0.1.zip",
-  "sha256": "f124fcb7fc2791e89b4661c8385b739279b3a6d7b9a631593ec39259d3b1f19d",
-  "message": "GitHub automatic update test V4.4.0.1"
+  "version": "4.4.1",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_1_UPDATE.zip",
+  "sha256": "df45333327063cc29cd5c6af9a17e1fa7af13d9c9e85e7c2e1e283ce61e4bb05",
+  "message": "V4.4.1 - webhard_sync 원본 직접 사용, bonus_pdfs 자동 이전/삭제"
 }
