@@ -1,8 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "4.4.8",
-  "folder_name": "TOPTEN_POP_V4.4.8",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_8_UPDATE.zip",
-  "sha256": "f0e901be3dd4d3bd7085616e820b509090c3549633d0f0541e129de306ce8841",
-  "message": "V4.4.8 - OCR 언어파일 번들 직접사용(복사단계 제거) + OneDrive/한글경로 안정화 + 버전표기 4.4.8 통일"
+  "version": "4.4.10",
+  "folder_name": "TOPTEN_POP_V4.4.10",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_10_UPDATE.zip",
+  "sha256": "cfab9f7867147c364a00577b2c0e04c94b407facc19ba8800717a7dc7afddd5d",
+  "message": "V4.4.10 - 기존 Tesseract/OCR 자동탐색·재사용 + 부족한 언어만 자동보충 + 미설치 시 자동설치 + 한글/OneDrive 경로 안정화 + 버전표기 4.4.10 통일"
 }
