@@ -1,9 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "4.4.6",
-  "display_version": "4.4.6",
-  "folder_name": "TOPTEN_POP_V4.4.6",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_6_UPDATE.zip",
-  "sha256": "9172b896de9d6f6cc79a7f8e97e289a4094963eb5ea59c8d075b49aa3f63b280",
-  "message": "V4.4.6 - CMD/사이트/내부버전 4.4.6 통일 + 완전자동 설치/OCR + GitHub 자동업데이트"
+  "version": "4.4.7",
+  "folder_name": "TOPTEN_POP_V4.4.7",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_7_UPDATE.zip",
+  "sha256": "92efd213862e864c2066ec04e3648d09905aec5073802613439af27b094431a4",
+  "message": "V4.4.7 - OCR 언어데이터 자동복구 안정화 + 업데이트 우선 실행 + 전체 버전표기 4.4.7 통일"
 }
