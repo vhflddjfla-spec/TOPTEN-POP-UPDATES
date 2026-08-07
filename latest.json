@@ -1,7 +1,9 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "4.4.1",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_1_UPDATE.zip",
-  "sha256": "df45333327063cc29cd5c6af9a17e1fa7af13d9c9e85e7c2e1e283ce61e4bb05",
-  "message": "V4.4.1 - webhard_sync 원본 직접 사용, bonus_pdfs 자동 이전/삭제"
+  "version": "4.4.6",
+  "display_version": "4.2",
+  "folder_name": "TOPTEN_POP_V4.2",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_2_UPDATE.zip",
+  "sha256": "9409bcd030631f6dc9cfa961b567fd3e8f269d50f046c2baa83d5b6c038f0869",
+  "message": "V4.2 - PowerShell 제거, Python 포터블 자동구성, Tesseract/OCR 완전자동 준비 안정화"
 }
