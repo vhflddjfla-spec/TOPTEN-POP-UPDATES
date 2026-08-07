@@ -1,7 +1,7 @@
 {
   "product": "TOPTEN POP Automation",
   "version": "4.4.0.1",
-  "download_url": "https://github.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/releases/download/v4.4.0.1/TOPTEN_POP_AUTOUPDATE_TEST_V4.4.0.1.zip",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_AUTOUPDATE_TEST_V4.4.0.1.zip",
   "sha256": "f124fcb7fc2791e89b4661c8385b739279b3a6d7b9a631593ec39259d3b1f19d",
   "message": "GitHub automatic update test V4.4.0.1"
 }
