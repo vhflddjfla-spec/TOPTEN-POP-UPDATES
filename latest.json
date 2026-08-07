@@ -1,8 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "4.4.7",
-  "folder_name": "TOPTEN_POP_V4.4.7",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_7_UPDATE.zip",
-  "sha256": "92efd213862e864c2066ec04e3648d09905aec5073802613439af27b094431a4",
-  "message": "V4.4.7 - OCR 언어데이터 자동복구 안정화 + 업데이트 우선 실행 + 전체 버전표기 4.4.7 통일"
+  "version": "4.4.8",
+  "folder_name": "TOPTEN_POP_V4.4.8",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_8_UPDATE.zip",
+  "sha256": "f0e901be3dd4d3bd7085616e820b509090c3549633d0f0541e129de306ce8841",
+  "message": "V4.4.8 - OCR 언어파일 번들 직접사용(복사단계 제거) + OneDrive/한글경로 안정화 + 버전표기 4.4.8 통일"
 }
