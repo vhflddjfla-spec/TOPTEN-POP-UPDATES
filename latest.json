@@ -1,9 +1,9 @@
 {
   "product": "TOPTEN POP Automation",
   "version": "4.4.6",
-  "display_version": "4.2",
-  "folder_name": "TOPTEN_POP_V4.2",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_2_UPDATE.zip",
-  "sha256": "9409bcd030631f6dc9cfa961b567fd3e8f269d50f046c2baa83d5b6c038f0869",
-  "message": "V4.2 - PowerShell 제거, Python 포터블 자동구성, Tesseract/OCR 완전자동 준비 안정화"
+  "display_version": "4.4.6",
+  "folder_name": "TOPTEN_POP_V4.4.6",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_6_UPDATE.zip",
+  "sha256": "9172b896de9d6f6cc79a7f8e97e289a4094963eb5ea59c8d075b49aa3f63b280",
+  "message": "V4.4.6 - CMD/사이트/내부버전 4.4.6 통일 + 완전자동 설치/OCR + GitHub 자동업데이트"
 }
