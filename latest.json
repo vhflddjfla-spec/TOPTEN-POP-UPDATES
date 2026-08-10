@@ -1,8 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "4.4.11",
-  "folder_name": "TOPTEN_POP_V4.4.11",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_11_UPDATE.zip",
-  "sha256": "61a7448bddff9768c03501888752f01cfa529bd1aba66357661aa772ad5bb40f",
-  "message": "V4.4.11 - Windows 한글 코드페이지 Tesseract 출력 UnicodeDecodeError 수정 + OCR 상태/오류 디코딩 안정화 + 버전표기 4.4.11 통일"
+  "version": "4.4.22",
+  "folder_name": "TOPTEN_POP_V4.4.22",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_22_UPDATE.zip",
+  "sha256": "d4d94f7a177d7632f00ee4e060335a36e15a831aa2a9d0a39448489f639414aa",
+  "message": "V4.4.22 - PP-OCRv5 Korean FAST first pass + PaddleOCR-VL 1.6 ambiguous-page fallback, live PDF/SKU matching preview, separate FAST/VL progress, persistent cache and safe cleanup"
 }
