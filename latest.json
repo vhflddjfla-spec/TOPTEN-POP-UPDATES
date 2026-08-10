@@ -4,5 +4,5 @@
   "folder_name": "TOPTEN_POP_V4.4.22",
   "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_22_UPDATE.zip",
   "sha256": "d4d94f7a177d7632f00ee4e060335a36e15a831aa2a9d0a39448489f639414aa",
-  "message": "V4.4.22 - PP-OCRv5 Korean FAST first pass + PaddleOCR-VL 1.6 ambiguous-page fallback, live PDF/SKU matching preview, separate FAST/VL progress, persistent cache and safe cleanup"
+  "message": "V4.4.22 - AI 매칭 번외 PDF 매칭 업데이트"
 }
