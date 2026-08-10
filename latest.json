@@ -1,8 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "4.4.25",
-  "folder_name": "TOPTEN_POP_V4.4.25",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_25_UPDATE.zip",
-  "sha256": "1255ceb4053cba3ea9cd6a7fd50bb712d21378515a2be972488f97b3f5d5ec0f",
-  "message": "V4.4.25 - AI 반복 재매칭 안전화: 기존 확정 매칭 유지, 변경없는 PDF 캐시 100% 재사용, OCR/VL 반복추론 방지, 중단/오류 시 기존 이미지매칭 보호, 검토 후 원자적 교체"
+  "version": "4.4.26",
+  "folder_name": "TOPTEN_POP_V4.4.26",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_26_UPDATE.zip",
+  "sha256": "3343cd8eb352491dae1bf2d9431b3bffd1af6302683fd4ed6f99f067cecf6666",
+  "message": "V4.4.26 - AI 번외 시즌(F2/G2/G3) 하드게이트 + 품종군 교차검증 + 성별/한글·영문 상품명/제품라인 결합 + 70% 자동확정 유지 + 캐시 재매칭"
 }
