@@ -1,8 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "4.4.22",
-  "folder_name": "TOPTEN_POP_V4.4.22",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_22_UPDATE.zip",
-  "sha256": "d4d94f7a177d7632f00ee4e060335a36e15a831aa2a9d0a39448489f639414aa",
-  "message": "V4.4.22 - AI 매칭 번외 PDF 매칭 업데이트"
+  "version": "4.4.25",
+  "folder_name": "TOPTEN_POP_V4.4.25",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_25_UPDATE.zip",
+  "sha256": "1255ceb4053cba3ea9cd6a7fd50bb712d21378515a2be972488f97b3f5d5ec0f",
+  "message": "V4.4.25 - AI 반복 재매칭 안전화: 기존 확정 매칭 유지, 변경없는 PDF 캐시 100% 재사용, OCR/VL 반복추론 방지, 중단/오류 시 기존 이미지매칭 보호, 검토 후 원자적 교체"
 }
