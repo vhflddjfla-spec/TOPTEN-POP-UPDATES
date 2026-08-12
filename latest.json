@@ -1,8 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "4.4.27",
-  "folder_name": "TOPTEN_POP_V4.4.27",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_27_UPDATE.zip",
-  "sha256": "efcbc10393341fc5202b61717cc433d41356d5f55c04a89e13096b5be07b44df",
-  "message": "V4.4.27 - V4.4.26 기반 유지 + 매뉴얼 품종대/소 코드 하드게이트 + 성별/시즌/품종/상품명·영문명/제품라인 교차검증 + FAST 후보축소 + 실시간 품종 미리보기 + 캐시/수동고정 보호"
+  "version": "4.4.29",
+  "folder_name": "TOPTEN_POP_V4.4.29",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_29_UPDATE.zip",
+  "sha256": "436908d0aaaf8a0920539392fb0aae6cf3e4cc3be44b660c3b17c27b8b4c2de7",
+  "message": "V4.4.29 - GitHub 공지PDF 자동동기화 + SHA 중복제거 + 누적/개정 정답DB + 대용량 임시삭제 + 공지 이미지 직접매칭 + OCR/AI 교차검증 + 수동고정/대체POP 보호"
 }
