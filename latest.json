@@ -1,8 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "4.4.27",
-  "folder_name": "TOPTEN_POP_V4.4.27",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_27_UPDATE.zip",
-  "sha256": "efcbc10393341fc5202b61717cc433d41356d5f55c04a89e13096b5be07b44df",
-  "message": "V4.4.27 - V4.4.26 기반 유지 + 매뉴얼 품종대/소 코드 하드게이트 + 성별/시즌/품종/상품명·영문명/제품라인 교차검증 + FAST 후보축소 + 실시간 품종 미리보기 + 캐시/수동고정 보호"
+  "version": "4.4.30",
+  "folder_name": "TOPTEN_POP_V4.4.30",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_30_UPDATE.zip",
+  "sha256": "c42fb4280682be9d85757d3b6502d5ec42e7f52e44c2aa82513b0cd8a09e7c03",
+  "message": "V4.4.30 - GitHub 공지 PDF 한글/공백/괄호 파일명 UnicodeEncodeError 수정 + ASCII-safe URL 인코딩 + V4.4.29 공지 자동동기화/중복·개정 관리/정답DB 기능 유지"
 }
