@@ -1,8 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "4.4.31",
-  "folder_name": "TOPTEN_POP_V4.4.31",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_31_UPDATE.zip",
-  "sha256": "238299bb6f800df69fe6ee94ca31d6d8337c893e9eecdf4c25a778703f1c596a",
-  "message": "V4.4.31 - 공지 정답/수동고정/OCR·AI 매칭 우선순위 통합 + AI 전체 재매칭 자동적용 + 공지DB 재연동 + OCR/AI 전환시 수동·공지 보호 + NEW ARRIVAL 잔존 수정 + 안전한 불필요파일 자동정리"
+  "version": "4.4.32",
+  "folder_name": "TOPTEN_POP_V4.4.32",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_32_UPDATE.zip",
+  "sha256": "587229c2a08c46985cd418d0f04bcebaab670c0147b40f42eca1091b5a243fe1",
+  "message": "V4.4.32 - GitHub notice.json 운영공지 팝업 + 일반/중요/긴급 한글 레벨 + 1회/매실행/항상 노출모드 + 오늘 다시 보지 않기 + 메인 공지 다시보기 + V4.4.31 번외매칭/공지PDF/자동정리 유지"
 }
