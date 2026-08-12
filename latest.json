@@ -1,8 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "4.4.26",
-  "folder_name": "TOPTEN_POP_V4.4.26",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_26_UPDATE.zip",
-  "sha256": "3343cd8eb352491dae1bf2d9431b3bffd1af6302683fd4ed6f99f067cecf6666",
-  "message": "V4.4.26 - AI 번외 시즌(F2/G2/G3) 하드게이트 + 품종군 교차검증 + 성별/한글·영문 상품명/제품라인 결합 + 70% 자동확정 유지 + 캐시 재매칭"
+  "version": "4.4.27",
+  "folder_name": "TOPTEN_POP_V4.4.27",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_27_UPDATE.zip",
+  "sha256": "efcbc10393341fc5202b61717cc433d41356d5f55c04a89e13096b5be07b44df",
+  "message": "V4.4.27 - V4.4.26 기반 유지 + 매뉴얼 품종대/소 코드 하드게이트 + 성별/시즌/품종/상품명·영문명/제품라인 교차검증 + FAST 후보축소 + 실시간 품종 미리보기 + 캐시/수동고정 보호"
 }
