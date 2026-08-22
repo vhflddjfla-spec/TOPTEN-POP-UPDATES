@@ -1,8 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "4.4.32",
-  "folder_name": "TOPTEN_POP_V4.4.32",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_32_UPDATE.zip",
-  "sha256": "587229c2a08c46985cd418d0f04bcebaab670c0147b40f42eca1091b5a243fe1",
-  "message": "V4.4.32 - GitHub notice.json 운영공지 팝업 + 일반/중요/긴급 한글 레벨 + 1회/매실행/항상 노출모드 + 오늘 다시 보지 않기 + 메인 공지 다시보기 + V4.4.31 번외매칭/공지PDF/자동정리 유지"
+  "version": "4.4.34",
+  "folder_name": "TOPTEN_POP_V4.4.34",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_34_UPDATE.zip",
+  "sha256": "5a78b308ae702ad9652cd79e233eb9b6e0ef64957a8abd954eacf764077ac0ad",
+  "message": "V4.4.34 - 공지PDF SHA+파서버전 캐시 + 0건/실패 재분석 + 전체 공지 정답DB 재구축/롤백보호 + 텍스트 품번 보조추출 + 분석성공/실패 수 표시 + V4.4.33 기능 유지"
 }
