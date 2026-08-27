@@ -1,8 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "4.4.46",
-  "folder_name": "TOPTEN_POP_V4.4.46",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_46_UPDATE.zip",
-  "sha256": "2e0ffd8cb5e8d05ed71692641d6b8d2aa479533099717865cb1f96abf89bb7e7",
-  "message": "V4.4.46 - 사용자 제공 TT_소형 POP-1.pptx를 성인소형 공식 원본으로 직접 적용 + 3페이지 공용/남성/여성 페이지 자동선택 + 가격/정상가/행사기간/상품명/영문명 좌표와 기본 글꼴 크기를 PPT placeholder 값 그대로 적용 + 고정 태그/화살표/삼각형/외곽선은 PPT 원본 유지"
+  "version": "4.4.47",
+  "folder_name": "TOPTEN_POP_V4.4.47",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_47_UPDATE.zip",
+  "sha256": "85afbd77ee3d9162515827482855867d4ec4dc08c64d59f111584251810e75e4",
+  "message": "V4.4.47 - 정상가도 번외 PDF 1순위 매칭 + 번외 없으면 NEW ARRIVAL 2순위 + 기간한정은 번외 1순위→성인소형 2순위 + 가격인하 PPT 전용 및 기존 데이터 보호 유지"
 }
