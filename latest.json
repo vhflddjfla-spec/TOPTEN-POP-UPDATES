@@ -1,8 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "4.4.34",
-  "folder_name": "TOPTEN_POP_V4.4.34",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_34_UPDATE.zip",
-  "sha256": "5a78b308ae702ad9652cd79e233eb9b6e0ef64957a8abd954eacf764077ac0ad",
-  "message": "V4.4.34 - 공지PDF SHA+파서버전 캐시 + 0건/실패 재분석 + 전체 공지 정답DB 재구축/롤백보호 + 텍스트 품번 보조추출 + 분석성공/실패 수 표시 + V4.4.33 기능 유지"
+  "version": "4.4.38",
+  "folder_name": "TOPTEN_POP_V4.4.38",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_38_UPDATE.zip",
+  "sha256": "ec8111584e7e81523a3598e6ac9226d805c1c5edba3bf0694bc5dab39700f4de",
+  "message": "V4.4.38 - DINPro-Regular 자동탐색/복사 + fonts 및 기존 운영데이터 보호 강화 + 가격인하/기간한정 행사기간 표시 + 가격인하 PPT 시안 고정 + 기간한정 번외1순위/성인소형2순위 + 정상가 NEW ARRIVAL + 특별가격 POP 폐기 + 210x230 규격 유지"
 }
