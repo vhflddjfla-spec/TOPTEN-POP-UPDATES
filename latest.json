@@ -1,8 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "4.4.47",
-  "folder_name": "TOPTEN_POP_V4.4.47",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_47_UPDATE.zip",
-  "sha256": "85afbd77ee3d9162515827482855867d4ec4dc08c64d59f111584251810e75e4",
-  "message": "V4.4.47 - 정상가도 번외 PDF 1순위 매칭 + 번외 없으면 NEW ARRIVAL 2순위 + 기간한정은 번외 1순위→성인소형 2순위 + 가격인하 PPT 전용 및 기존 데이터 보호 유지"
+  "version": "4.4.48",
+  "folder_name": "TOPTEN_POP_V4.4.48",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_48_UPDATE.zip",
+  "sha256": "84c9c30dccd364ceb2fdd143efb42b2e121962fdeafdcce0839212d626ca462f",
+  "message": "V4.4.48 - 프로모션 행사기간 워크북 전체 시트/전체 사용행 자동인식 + 행사기간/기간:/기간동안 문구 우선 + 날짜 위치·열 이동 대응 + 파일명 날짜 fallback + 기존 가격정책/번외 우선순위/성인소형 PPT 규칙 유지"
 }
