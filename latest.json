@@ -1,8 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "4.4.34",
-  "folder_name": "TOPTEN_POP_V4.4.34",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_34_UPDATE.zip",
-  "sha256": "5a78b308ae702ad9652cd79e233eb9b6e0ef64957a8abd954eacf764077ac0ad",
-  "message": "V4.4.34 - 공지PDF SHA+파서버전 캐시 + 0건/실패 재분석 + 전체 공지 정답DB 재구축/롤백보호 + 텍스트 품번 보조추출 + 분석성공/실패 수 표시 + V4.4.33 기능 유지"
+  "version": "4.4.48",
+  "folder_name": "TOPTEN_POP_V4.4.48",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V4_4_48_UPDATE.zip",
+  "sha256": "84c9c30dccd364ceb2fdd143efb42b2e121962fdeafdcce0839212d626ca462f",
+  "message": "V4.4.48 - 프로모션 행사기간 워크북 전체 시트/전체 사용행 자동인식 + 행사기간/기간:/기간동안 문구 우선 + 날짜 위치·열 이동 대응 + 파일명 날짜 fallback + 기존 가격정책/번외 우선순위/성인소형 PPT 규칙 유지"
 }
