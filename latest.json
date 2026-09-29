@@ -1,0 +1,8 @@
+{
+  "product": "TOPTEN POP Automation",
+  "version": "5.1.1",
+  "folder_name": "TOPTEN_POP_V5.1.1",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V5_1_1_UPDATE.zip",
+  "sha256": "4a991e9f8435239f77ab6155278e8e5d5c8bd2c9f1b3d66cd600d17858ed7bb6",
+  "message": "V5.1.1 - 매장용 POP 자동화 매뉴얼 내장: 업데이트 시 PDF 자동수신, 최초 실행 시 data\\manual 1회 설치, 메인 화면 매뉴얼 버튼, 7페이지 페이지별 열람/PDF 다운로드. 기존 가격정책·AI 번외·POP 출력 규칙 유지"
+}
