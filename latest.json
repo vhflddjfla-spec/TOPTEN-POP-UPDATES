@@ -3,6 +3,6 @@
   "version": "5.1",
   "folder_name": "TOPTEN_POP_V5.1",
   "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V5_1_UPDATE.zip",
-  "sha256": "cea637b25c77c59274f727e7e23575ff175edb303df9dfbc4d49f7e34569eb51",
-  "message": "V5.1 - 첫 타매장 공식 배포판: GitHub 중앙 가격정책 마스터 자동배포, 시작 시 1회 + 30분 간격 manifest 확인, SHA256 검증/기존 마스터 백업/원자적 교체, R8 가격정책·미래적용·POP 출력 규칙 유지"
+  "sha256": "cd58af5697cf11f28ee6b67eaac09a5dfb4c4b4df44a8c05a38eb574655fd21a",
+  "message": "V5.1 - 타매장 배포 정리본: 매장판에서 관리자용 가격정책 배포 생성기 제거, RUN.cmd 전용 실행, GitHub 중앙 가격정책 마스터 자동수신 유지, R8 가격정책·미래적용·POP 출력 규칙 유지"
 }
