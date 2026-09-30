@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "master_version": "2026-09-30-161131",
+  "file_name": "TOPTEN_PRICE_POLICY_MASTER.xlsx",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_PRICE_POLICY_MASTER.xlsx",
+  "sha256": "22bdf40c39394e3766753b5b70f9999b8c28e9e934fca03b8587ccd6597e6ec5",
+  "minimum_app_version": "5.1",
+  "message": "TOPTEN 중앙 가격정책 마스터 2026-09-30-161131"
+}
