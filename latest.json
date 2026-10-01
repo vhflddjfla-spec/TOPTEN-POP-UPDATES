@@ -1,0 +1,8 @@
+{
+  "product": "TOPTEN POP Automation",
+  "version": "5.1.2",
+  "folder_name": "TOPTEN_POP_V5.1.2",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V5_1_2_UPDATE.zip",
+  "sha256": "077d2e54284018762cc9edfa7051ba3caaf05f6b1e36c58f835417797e833247",
+  "message": "V5.1.2 - 적용일 기준 POP 작업 활성화 + 실제 행사기간 유지 + 기간 입력시 기간한정 자동판정 + 동일 중앙 마스터 재덮어쓰기 방지"
+}
