@@ -1,10 +1,10 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "5.1.7",
-  "folder_name": "TOPTEN_POP_V5.1.7",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V5_1_7_UPDATE.zip",
-  "sha256": "71cfe474a3b749399b23f5631c6727e440aea2912707dd4fcdaef0708828a1db",
-  "message": "V5.1.7 - 적용일 도래 예약대기 자동반영 복구 및 변경리스트 반영 속도 개선",
+  "version": "5.1.8",
+  "folder_name": "TOPTEN_POP_V5.1.8",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V5_1_8_UPDATE.zip",
+  "sha256": "38fa42b583b771c8eb27df04fe4696b0f0d29787429bc8205ac045b9871e2d59",
+  "message": "V5.1.8 - 가격정책 롤백 차단 + 안전한 PRICEMASTER 배포: 초기/과거 마스터 재발행 차단, 중앙 과거본 덮어쓰기 방지, 수신 직후 적용일/기간종료 자동정리",
   "delete_paths": [
     "V5.1_RELEASE_NOTES.txt",
     "V5.1.1_RELEASE_NOTES.txt",
@@ -12,6 +12,7 @@
     "V5.1.3_RELEASE_NOTES.txt",
     "V5.1.4_RELEASE_NOTES.txt",
     "V5.1.5_RELEASE_NOTES.txt",
-    "V5.1.6_RELEASE_NOTES.txt"
+    "V5.1.6_RELEASE_NOTES.txt",
+    "V5.1.7_RELEASE_NOTES.txt"
   ]
 }
