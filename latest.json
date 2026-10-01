@@ -2,7 +2,7 @@
   "product": "TOPTEN POP Automation",
   "version": "5.1.10",
   "folder_name": "TOPTEN_POP_V5.1.10",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V5_1_10_UPDATE.zip",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/a6f6081ffa082c76f3ab959bc983a5e86a14dc80/TOPTEN_POP_V5_1_10_UPDATE.zip",
   "sha256": "56a48360ad1fe9c45b151736a19ce86f2d1f3e3029c0313caf1b89f116784a4c",
   "message": "V5.1.10 - GitHub 가격정책 XLSX 원버튼 직접동기화: 적용일(D-1 POP 작업일) 즉시반영, 행사종료일 당일 자동복귀",
   "delete_paths": [
