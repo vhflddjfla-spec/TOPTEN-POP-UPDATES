@@ -1,0 +1,17 @@
+{
+  "product": "TOPTEN POP Automation",
+  "version": "5.1.7",
+  "folder_name": "TOPTEN_POP_V5.1.7",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V5_1_7_UPDATE.zip",
+  "sha256": "71cfe474a3b749399b23f5631c6727e440aea2912707dd4fcdaef0708828a1db",
+  "message": "V5.1.7 - 적용일 도래 예약대기 자동반영 복구 및 변경리스트 반영 속도 개선",
+  "delete_paths": [
+    "V5.1_RELEASE_NOTES.txt",
+    "V5.1.1_RELEASE_NOTES.txt",
+    "V5.1.2_RELEASE_NOTES.txt",
+    "V5.1.3_RELEASE_NOTES.txt",
+    "V5.1.4_RELEASE_NOTES.txt",
+    "V5.1.5_RELEASE_NOTES.txt",
+    "V5.1.6_RELEASE_NOTES.txt"
+  ]
+}
