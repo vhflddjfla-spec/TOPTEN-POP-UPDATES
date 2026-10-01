@@ -1,0 +1,15 @@
+{
+  "product": "TOPTEN POP Automation",
+  "version": "5.1.5",
+  "folder_name": "TOPTEN_POP_V5.1.5",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V5_1_5_UPDATE.zip",
+  "sha256": "2918515bf731230cc0751abba0df27ec1ff014a742970d1a8d113560f8feb277",
+  "message": "V5.1.5 - 메인 화면 속도 최적화: 200건 페이지 표시 + Excel 헤더검증 캐시, 기존 가격정책/POP 로직 유지, 버전별 메모 TXT 없음",
+  "delete_paths": [
+    "V5.1_RELEASE_NOTES.txt",
+    "V5.1.1_RELEASE_NOTES.txt",
+    "V5.1.2_RELEASE_NOTES.txt",
+    "V5.1.3_RELEASE_NOTES.txt",
+    "V5.1.4_RELEASE_NOTES.txt"
+  ]
+}
