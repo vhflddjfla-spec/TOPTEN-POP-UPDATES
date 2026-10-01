@@ -1,10 +1,10 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "5.1.9",
-  "folder_name": "TOPTEN_POP_V5.1.9",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V5_1_9_UPDATE.zip",
-  "sha256": "5c5f5e36d09da5685e8a94297559adc992b1a9fdc29e98ef26ae63d188099141",
-  "message": "V5.1.9 - PRICEMASTER 실제 생성 수정: 초기본 사용/차단 제거, 실사용 마스터에서 오늘 도래 예약과 기간종료 복귀를 먼저 반영한 뒤 XLSX+price_master.json 생성",
+  "version": "5.1.10",
+  "folder_name": "TOPTEN_POP_V5.1.10",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V5_1_10_UPDATE.zip",
+  "sha256": "c7033d7b014338baaca2f5fa66a41ae475002ce47a51d1107f36950869e020b8",
+  "message": "V5.1.10 - GitHub 가격정책 XLSX 원버튼 직접동기화: JSON 버전이 같아도 최신 XLSX 강제확인, 적용일(D-1 POP 작업일) 즉시반영, 행사종료일 당일 자동복귀",
   "delete_paths": [
     "V5.1_RELEASE_NOTES.txt",
     "V5.1.1_RELEASE_NOTES.txt",
@@ -14,6 +14,7 @@
     "V5.1.5_RELEASE_NOTES.txt",
     "V5.1.6_RELEASE_NOTES.txt",
     "V5.1.7_RELEASE_NOTES.txt",
-    "V5.1.8_RELEASE_NOTES.txt"
+    "V5.1.8_RELEASE_NOTES.txt",
+    "V5.1.9_RELEASE_NOTES.txt"
   ]
 }
