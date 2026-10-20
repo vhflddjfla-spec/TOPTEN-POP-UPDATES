@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "master_version": "pm-5018b62bedfcc590",
+  "master_version": "pm-6209dc2e2cba0b8f",
   "file_name": "TOPTEN_PRICE_POLICY_MASTER.xlsx",
   "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_PRICE_POLICY_MASTER.xlsx",
-  "sha256": "5018b62bedfcc59079fcc5ba7e14c25cb8bb31a999e30f8d2465ef8c56568939",
+  "sha256": "6209dc2e2cba0b8f9adea834aec8ff0db9e5430897f45bb0abeae8db5f353cfe",
   "minimum_app_version": "5.1.10",
-  "published_at": "2026-10-17T21:14:11",
-  "message": "TOPTEN 중앙 가격정책 마스터 pm-5018b62bedfcc590"
+  "published_at": "2026-10-20T16:08:27",
+  "message": "TOPTEN V5.1.10 가격정책·신상등록·입력정리 pm-6209dc2e2cba0b8f"
 }
