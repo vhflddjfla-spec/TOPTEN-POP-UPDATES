@@ -1,8 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "5.1.14",
-  "folder_name": "TOPTEN_POP_V5.1.14",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V5_1_14_UPDATE.zip",
-  "sha256": "54688324328df257439cf14cdcf5786b2f10968a48921e98fa357a3e0e184ef1",
-  "message": "V5.1.14 - RUN 실행 전 중앙 가격정책 안전복구 / 읽기전용 WinError5 해결 / 10.22 예약 자동반영 + R4 AI 가속 및 R5 정책 유지"
+  "version": "5.1.15",
+  "folder_name": "TOPTEN_POP_V5.1.15",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V5_1_15_UPDATE.zip",
+  "sha256": "955bad6de906271c4bfcc8ad01944fb9f1fdce3395903eec88cf1f816df28946",
+  "message": "V5.1.15 - 기존 POP 자동화 매뉴얼 버튼 유지 / 0-8 단계별 9페이지 PDF 전 매장 자동갱신 / V5.1.14 가격정책·AI 매칭·POP 기능 보존"
 }
