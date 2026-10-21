@@ -1,8 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "5.1.11",
-  "folder_name": "TOPTEN_POP_V5.1.11",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V5_1_11_UPDATE.zip",
-  "sha256": "25628da719ffe502b9e979364b1f4c481aa5254f6267f8771316ddc76e090ad0",
-  "message": "V5.1.11 - SPEED R4 AI 화면 즉시 진입 + PRICE R5 기간한정 중 가격인하 적용일 우선 / 기존 데이터 보호"
+  "version": "5.1.12",
+  "folder_name": "TOPTEN_POP_V5.1.12",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V5_1_12_UPDATE.zip",
+  "sha256": "e0090296d9051f9fb4efe20079004facf8003262e73bd8461de6f8c4e0060936",
+  "message": "V5.1.12 - 전 매장 중앙 가격정책 자동 최신화: 과거 오판 차단 수정 + 22일 예약 자동반영/이전 행 보관 + R4/R5 유지"
 }
