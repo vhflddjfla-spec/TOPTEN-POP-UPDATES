@@ -1,8 +1,8 @@
 {
   "product": "TOPTEN POP Automation",
-  "version": "5.1.15",
-  "folder_name": "TOPTEN_POP_V5.1.15",
-  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V5_1_15_UPDATE.zip",
-  "sha256": "955bad6de906271c4bfcc8ad01944fb9f1fdce3395903eec88cf1f816df28946",
-  "message": "V5.1.15 - 기존 POP 자동화 매뉴얼 버튼 유지 / 0-8 단계별 9페이지 PDF 전 매장 자동갱신 / V5.1.14 가격정책·AI 매칭·POP 기능 보존"
+  "version": "5.1.17",
+  "folder_name": "TOPTEN_POP_V5.1.17",
+  "download_url": "https://raw.githubusercontent.com/vhflddjfla-spec/TOPTEN-POP-UPDATES/refs/heads/main/TOPTEN_POP_V5_1_17_UPDATE.zip",
+  "sha256": "af1bcab898f0d0be3e93b3756e0be04361d41dad15e36d97859ffffea99ed70d",
+  "message": "V5.1.17 R3 - 신규 신상 자동등록·중복정리·공란허용 / 기간한정 D-1 복귀 보존 / 기존 POP 템플릿·AI 매칭 무변경 / 묶음할인 제외"
 }
